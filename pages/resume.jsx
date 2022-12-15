@@ -96,7 +96,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Dallas, TX
           </p>
-          <p className='py-1 italic'>Front End Web Developer (2020 - 2021)</p>
+          <p className='py-1 italic'>Front End Web Developer (2020(Mar) - 2021(Jul))</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Ensured comprehensive mobile responsive UI layouts with
@@ -124,7 +124,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Dallas, TX
           </p>
-          <p className='py-1 italic'>Front End Web Developer (2021 - 2022)</p>
+          <p className='py-1 italic'>Front End Web Developer (2021(Aug) - 2022(Aug))</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Ensured comprehensive mobile responsive UI layouts with
@@ -154,7 +154,7 @@ const resume = () => {
             </span>
             <span className='px-2'>|</span>Dallas, TX
           </p>
-          <p className='py-1 italic'>Software Engineer (2022 - Current)</p>
+          <p className='py-1 italic'>Software Engineer (2022(Sep) - Current)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Service Provider app
